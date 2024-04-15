@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class practical3 {
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
+        Scanner si = new Scanner(System.in);
         System.out.println("Enter a Number");
-        int a = sc.nextInt();
+        int a = si.nextInt();
         int temp = 0;
         int n = 0;
 

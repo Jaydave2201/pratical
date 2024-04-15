@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "practical11",
+            "request": "launch",
+            "mainClass": "practical11",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "pratical9",
+            "request": "launch",
+            "mainClass": "pratical9",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "practical4",
+            "request": "launch",
+            "mainClass": "practical4",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "practical13",
+            "request": "launch",
+            "mainClass": "practical13",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "practical12",
+            "request": "launch",
+            "mainClass": "practical12",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "javapro",
+            "request": "launch",
+            "mainClass": "javapro",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "car",
+            "request": "launch",
+            "mainClass": "car",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "para_11",
+            "request": "launch",
+            "mainClass": "para_11",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "practical2",
+            "request": "launch",
+            "mainClass": "practical2",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "practical3",
+            "request": "launch",
+            "mainClass": "practical3",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "pratical6",
+            "request": "launch",
+            "mainClass": "pratical6",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "pratical7",
+            "request": "launch",
+            "mainClass": "pratical7",
+            "projectName": "java_72e8cc1b"
+        }
+    ]
+}
